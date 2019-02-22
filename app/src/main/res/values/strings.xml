@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FaceBlur</string>
+    <string name="get_camera_image">Get image from camera</string>
+</resources>
